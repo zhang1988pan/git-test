@@ -1,8 +1,2 @@
 This is Repository¡£
 Create new branch¡£
-<<<<<<< HEAD
-foolish
-stupid
-=======
-foolish
->>>>>>> feature1
